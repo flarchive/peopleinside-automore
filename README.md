@@ -2,13 +2,24 @@
 
 > **Read-only archive of released versions of peopleinside/automore.** Not for installation: use [Packagist](https://packagist.org/packages/peopleinside/automore) or the [upstream repository](https://github.com/PeopleInside/automore).
 
-**0** versions archived · Latest: [`2.1.2`](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.1.2) · License: `MIT` · Flarum: `^2.0.0-beta.1 || ^2.0.0`
+**12** versions archived · Latest: [`2.1.2`](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.1.2) · License: `MIT` · Flarum: `^2.0.0-beta.1 || ^2.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `2.0.0` | 2026-06-19 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.0) |
+| `2.0.1` | 2026-06-19 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.1) |
+| `2.0.2` | 2026-06-19 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.2) |
+| `2.0.3` | 2026-06-21 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.3) |
+| `2.0.4` | 2026-06-22 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.4) |
+| `2.0.5` | 2026-06-22 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.5) |
+| `2.0.6` | 2026-06-22 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.6) |
+| `2.0.7` | 2026-06-22 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.7) |
+| `2.0.8` | 2026-07-26 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.8) |
+| `2.0.9` | 2026-07-28 | `^2.0.0-beta.1 || ^2.0.0` | [Browse](https://github.com/flarchive/peopleinside-automore/tree/archive/v2.0.9) |
+
+[View all 12 versions](https://github.com/flarchive/peopleinside-automore/tags)
 
 Catalog entry: [packages/peopleinside-automore.json](https://github.com/flarchive/archive-index/blob/main/packages/peopleinside-automore.json)
 
